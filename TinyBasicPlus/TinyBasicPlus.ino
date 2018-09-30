@@ -39,6 +39,7 @@
 ******************************************************************
 */
 //    ref: http://members.shaw.ca:80/gbrandly/68ktinyb.html
+//    Members.shaw no longer exists but archive.org has the page.
 //
 //    However, Mike did not include a license of his own for his
 //    version of this.  
