@@ -52,6 +52,8 @@
 //    change with the next version 0.16, which will hopefully nail
 //    down the whole thing so we can get back to implementing
 //    features instead of licenses.  Thank you for your time.
+//
+//    MRoth fork 30.9.18
 
 #define kVersion "v0.15"
 
